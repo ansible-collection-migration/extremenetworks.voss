@@ -1,0 +1,15 @@
+namespace: extremenetworks
+name: voss
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies:
+  ansible.netcommon: '>=1.0'
+repository: git@github.com:ansible-collection-migration/extremenetworks.voss.git
+documentation: https://github.com/ansible-collection-migration/extremenetworks.voss/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/extremenetworks.voss
+issues: https://github.com/ansible-collection-migration/extremenetworks.voss/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
